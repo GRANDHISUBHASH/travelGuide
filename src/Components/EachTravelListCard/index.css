@@ -1,0 +1,10 @@
+li {
+  width: 40%;
+  background-color: white;
+  padding: 5px;
+  margin: 20px;
+}
+img {
+  background-size: contain;
+  width: 100%;
+}

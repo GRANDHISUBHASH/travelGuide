@@ -1,0 +1,8 @@
+ul {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: space-around;
+  color: black;
+}
